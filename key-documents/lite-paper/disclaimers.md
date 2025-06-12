@@ -1,0 +1,13 @@
+# Disclaimers
+
+**Token Disclaimer**: While a Token, by virtue of the P2P-systems architecture, may be traded on DEX exchanges and/or other resources by any Project actor, a Token is not an investment, currency, security, commodity, nor is an exchange of Token an exchange of currency, securities and/or commodities and/or any other financial instrument (the process of exchanging such instrument); because the Token is an integral part of the Project, used in good faith by the actors of the Project to achieve an optimum level of transaction costs for those assets used by the actors of the Project through the Protocol, and/or the Oracle, and/or the Index. The token itself has no price unless it occurs in transactions between buyers and sellers, who are independent in their will and volition.
+
+**Disclosure on smart contracts**: The Project shall not be liable for any losses (real damages and/or lost profits) arising out of the operation of smart contracts of the Project itself and/or its constituent elements, and/or other related smart contracts, or the inability to use such, as it applies these technologies “as is”, i.e. through third party services under various open-source licenses.
+
+**Technology disclaimer in general**: The Project accepts no responsibility for the inoperability of the Site, and/or the Project, and/or the Protocol, and/or the Oracle, and/or the Index, as these technologies are all based on open-source licenses, i.e. are provided “as is”.
+
+**Content disclaimer**: The Project shall not be responsible for any links and/or other materials posted on the Site, the Application and/or even more so on third party resources, if such materials (links/content/other) are in any way dependent on a third party (hosting provider, domain name registrar, blog platform administrator, social network administrator, etc.).
+
+**Jurisdiction disclaimer**: Those citizens (residents) who may not acquire Token except with permission of the relevant regulator (SEC/MAS/NBK/etc.), must apply in writing to the relevant regulator and obtain the same written permission for Token acquisition. After that citizens (residents) must provide such permission to counterparty for Token transaction, and only after prior consent of counterparty the ones must acquire Token in free (public) market, because violation of this condition will automatically recognize the violating party.
+
+**General disclaimer**: The project operates exclusively as a DAO and is subject only to generally accepted principles and norms of international law, morality and ethics, which means that all disputes and/or disagreements can only be solved by applying the principles of decentralization and openness and only through voluntary proceedings.
