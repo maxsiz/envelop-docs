@@ -1,1 +1,5 @@
+site_name: Envelop Docs
+theme: readthedocs
 
+nav:
+  - Home: SUMMURY.md
